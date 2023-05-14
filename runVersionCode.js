@@ -1,5 +1,0 @@
-runVersionCode();
-
-function runVersionCode() {
-
-}
